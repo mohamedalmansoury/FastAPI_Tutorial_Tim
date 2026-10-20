@@ -13,6 +13,7 @@ dependencies = [
     "fastapi-users[sqlalchemy]>=13.0.0",
     "imagekitio>=4.2.0",
     "python-dotenv>=1.0.1",
+    "streamlit>=1.40.1",
     "uvicorn[standard]>=0.33.0",
 ]
 
